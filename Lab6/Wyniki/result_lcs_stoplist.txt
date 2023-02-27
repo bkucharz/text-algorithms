@@ -1,0 +1,396 @@
+Number of clusters: 98
+
+['ifl international freight lines limited']
+
+###############
+
+['biazet spolka akcyjna gen.wladyslawa andersa 38 bialystok 15-113 lukasz koziol , ewa nasuta telephone : 856784700']
+
+###############
+
+['ningbo topluck imp. & exp.co. , rm.602 bldg.11 east zone of new world385 xintian road ningbo']
+
+###############
+
+['itella logistics oy , huurrekuja 2 , fi-04360 tuusula , finland t : 358 ( 9 ) -2512-1711 , f : 358 ( 9 ) -8251885']
+
+###############
+
+['zhenhua logistics group ltd68 renming road19/f gold name building116001 dalian']
+
+###############
+
+["ooo `` shkval '' 390000 , ryazan , koltcova ul.2 , inn 6234067795"]
+
+###############
+
+['winteam industrial development company limited room 801-2 , 8/f. , easeycommercial building , 253-261 hennessy road , wanchai , h.k .']
+
+###############
+
+['global goodwill logistics corp. cell03.7floor , blocks , senling real estate 200080 no.469 wu song rd . shanghai'
+ 'ningbo sanbang thread industry co. , . no.62 , changfeng industry zone , ningbo , : +86 574 28856611 : +86 574'
+ 'zhejiang anji rongyi furniture co. , tangpu industry zone , anji county zhejiang province']
+
+###############
+
+['lpp s.a. ui.lakowa 39/44 80-769 gdansk']
+
+###############
+
+['xiamen jaguar global trading co. , rm714 , 7-9 , haitian road , xiamen , 361006 tel:0592-2631971 fax:0592-2631966']
+
+###############
+
+['alfa forwarding ul.indyjska 13 81-336 gdynia ,']
+
+###############
+
+['xiamen jaguar global trading ltd7 haitian rd 361006 xiamen xiamen 35 cn']
+
+###############
+
+['damco pakistan pvt 19/b s.m.c.h.s near roomi masjid shahrah-e-faisal karachi pakistan on behalf of cotton web ( pvt ) limited']
+
+###############
+
+['t-max industrial co.ltd . 15/f , b & m mansion , . 55 hunan road , qingdao ,']
+
+###############
+
+['clarion logistics india p ltd48 wavoo mansion2nd flr , rajaji salaichennai 600002']
+
+###############
+
+["to order of fmg shipping and forwarding ltd. , 190020 , saint petersburg , liflyandskaya str.6 , liera a ' , building 31h , office 310 : +7 812 448 82 83 : +7 812 448 04 98"]
+
+###############
+
+['schenker sp.zo.o . gdynia ( ocean ) 31wisniewskiego str . pl-81-156 gdynia as agent for schenkerocean .']
+
+###############
+
+['sea-air logistics ( ) room818 , huahong 5th avenue , no.719 , zhong xing road , ningbo , tel:0574-87867635/36/37/38 fax:0574-87867633']
+
+###############
+
+["ooo `` kleya '' pr . engelsa d. 16 k.2 lit . a 194156 , st.petersburg , russiatel +7 ( 812 ) 329-42-62 pashkevichanna"]
+
+###############
+
+['savino del bene sp . z o.o . . slaka 17 , 81-319 gdynia attn : przemek gadzialski : +48 58 767 56 23 : +48 58 785 05 79']
+
+###############
+
+['shenzhen sunshine imp. & exp . co. , rm.2604-05,26/f. , hung cheong plaza , shennan east rd. , shenzhen.china tel:33393071 fax:33393099']
+
+###############
+
+['shengzhou jinyu imp & exp.co. , no.5f . no.108 beizhi street shengzhoucity zhejiang']
+
+###############
+
+['itochu corporation 2-5-1 kita aoyama , minato-ku tokyo 107-00161 , japan']
+
+###############
+
+['zhejiang guxiandao industrial fibreco. , ltd. , yuedong road paojiang industrial district shaoxing 312000china']
+
+###############
+
+['1.ooo silmar spb 198035 , , stpetersburg . dvinskaya 16/2 contact person : yashin alexey phone : +7812 495 8527 -- -']
+
+###############
+
+['topex sp . z.o.o . spolka komandytowaul pograniczna 2/4 , 02-285 warszawa ,']
+
+###############
+
+['pt . arista latindo jl . k.h . moh . mansyur no.128 jakarta 11210 , indonesia']
+
+###############
+
+['marimax polska sp z o. o. poezji 18/19 04-994 warsaw ,']
+
+###############
+
+['forward expedition limited hkg , 119002 , moscow , krivoarbatskiy pereulok,13 , building 2 : +7 ( 495 ) 669-73-24 ext.110 : +7 ( 495 ) 669-73-24ext . 116 cpt : alexandr khalikov']
+
+###############
+
+['panalpina world transport ( prc ) ltd.shenzhen branch as agent for and onbehalf of pantainer ltd.42fl , golden business centre , no.2028 east shennan rd. , shenzhen ,']
+
+###############
+
+['geodis wilson shanghai limited ningbo branch rm 8501 howard johnson mansion , 230 liuting street , ningbo 315010 , zhejing']
+
+###############
+
+['kuehne & nagel ltd. 24/f massmutualtower , 38 gloucester road wanchaihong kong as agent of blue anchor line']
+
+###############
+
+['hanaro t & s ( busan ) rm 502 trade center87-7 , chungang-dong 4-ga chung-ku 6busan korea , south']
+
+###############
+
+['sonali bank limited . gulshan branch , gulshan , dhaka , bangladesh']
+
+###############
+
+['savino del bene ( shanghai ) co.ltd 11/e west tower , hi-tech king world beijing shanghai-200001 : +86 21 53080977 : +86 21 53080098']
+
+###############
+
+['double a ( 1991 ) public company limited 1 moo 2 thatoom , srimahaphote , prachinburi 25140 , thailand']
+
+###############
+
+['claris lifesciences claris corporate headquarters , near parimal crossing , ellisbridge , ahmedabad 380006 , india 380 006 .']
+
+###############
+
+['elite profit international tradinglimited 19fl.oversea friendship building , no.12 ying chun road , shenzhen , china+']
+
+###############
+
+['ikea distribution services sa , distul . m. grabinskiego 50 jarosty/moszczenica 97-310 ,']
+
+###############
+
+['swift freight india private bbcvilla complex , flat a1 , 7th flr no65 pophams road , broadway chennai600001 chennai in']
+
+###############
+
+['spirit trading limited']
+
+###############
+
+['cjsc tetra pak , wilhelm pieck 8 ,129226 moscow agnia khosaeva tel.+7-495 787 80 00 ext . 7012084 , mobile+7-917 562 21 38 svetlana kuzmina tel.+7-495 78780 00ext . 7012197']
+
+###############
+
+['sinotrans shantou co9 jinsha rd515000 shantou']
+
+###############
+
+['sino-resource imp. & exp.co. , . o/b xiamen chuangying import & exportco. ,']
+
+###############
+
+['bossi & c . transiti s.p.a. via d , fiaselia ,1 16121 genova tel:010 57161 : 010 582346']
+
+###############
+
+['sealand logistics sp.z.o.o . partyzantow 24 81-422 gdynia , tel:48-58-6209490 fax:48-58-7425915 eori . : pl958162434900000']
+
+###############
+
+['ocean professional logistics sp . z.o.o . . energetykow 5 gdynia 81-184 . +48 ( 58 ) 785-54-14 . +48 ( 58 ) 785-54-16']
+
+###############
+
+['global goodwill logistics corp. 808/1809 centre plaza , no.188 jiefangroad , heping district , tianjin , : +86 022 23193979 : +86 02223193980/81']
+
+###############
+
+["ooo `` geocon '' ,198035 , , st.petersburg , . gapsalskaya,5 , lit.a , phone ( 812 ) 3357065"]
+
+###############
+
+['norinco shanghai co. , 15f.,1228south zhong shan road , shanghai,200120 +86-21-63155558']
+
+###############
+
+['welgrow logistics ltd- welgrow logistics 215 fu hsin 3f taiwan taipei tw']
+
+###############
+
+['itella logistics / indoor group ltdsummer furniture iso-paavolankatu2 vp-5 15520 lahti finland']
+
+###############
+
+['ade line sa . polna 14 , 55-110 prusice : +48717355893 : +48713528414']
+
+###############
+
+['dsv air & sea co. , . qinddao branch suit1502 15/f huayin mansion no.5 , donghai west road qingdao 266071china -']
+
+###############
+
+['1/fmg shipping and forwarding ltd190020 , saint petersburg , liflyandskaya str. , 6 , litera a 2/ < torgoviysoyuz > lensoveta +++']
+
+###############
+
+['hangzhou trust apparel co. , room401-402 songdu ind.mansion , no.229hanghai road , hangzhou ,']
+
+###############
+
+['prime logistics sp . z.o.o . . wolnosci 18 81-327 gdynia eori pl958143922100000']
+
+###############
+
+['f.h.u art-pol u1.lwowska 51 pok 507:37-700 przemysl']
+
+###############
+
+['interlink sp zoo u1 . pomorska 50a 81-314 gdynia bielska @ interlink.biz.pl siejkowska @ interlink.biz.pltel : +48 58 660 59 55 ; + 58 660 59 50']
+
+###############
+
+['shandong lingong construction machinery co. , . economic developmentzone , linyi,276023 , shandong ,']
+
+###############
+
+['lpp s.a. ul.lakowa 39/44 , 80-769 gdansk ,']
+
+###############
+
+['ooo unilever rus progonnaya str 1 , st.petersburg , 192102 russian federation']
+
+###############
+
+["ooo `` kontex '' 199004. , saintpetersburg , 4 - liniya vasilevskogoostrova , d 17. . 8 812 323-95-95"]
+
+###############
+
+['1.forward expedition limited hkg , moscow representation , 111033 , moscow , zolotorozhskiy val str.32/6-2 , 2floor , of.3 , pic : alexander slisenko tel/fax +7 ( 495 ) 665 63 67 e-mail :']
+
+###############
+
+['pantos logistics ( sz ) co. , . rm05/06,10/f , tower b , tiley central plaza , no.3 haide road , nanshan district , shenzhen , . .']
+
+###############
+
+['damco limited shanghai branchhq338 west nanjing road3f200003 shanghai']
+
+###############
+
+['alexandria tire co. on behalf of pirelli tyre s.p.a , milan swiss branch basel st.jakobs-str . 54 4052 basel - switzerland']
+
+###############
+
+['to order of cargowell llc 190020 , saint-petersburg , liflyandskaya str,6 , lit b tel/fax : 8 ( 812 ) 493-53-85']
+
+###############
+
+['pantos logistics sp . z o.o.ul . szyszkowa 43 warszawa , zip : 02-285 : 0048 22 358 2750 attn : piotr paduch --']
+
+###############
+
+['far eastern trading limited room 1703-04 , 17/f. , asian house,1 hennessy road , hong kong']
+
+###############
+
+['global alliance logistics ( hk ) ltdunit 6 20/fl stelux house 698 prince edward rd east san po kong kowloon hong kong hk']
+
+###############
+
+['hellmann worldwide logistics polskaul.janka wisniewskiego 31 81-156 gdynia tel:48 58 78 32 167 fax:48 5878 32 160']
+
+###############
+
+['dhl lemuir logistics pvt.ltd firstfloor , dlf infinity tower a cyber city phase-ii gurgaon , hariyana 122002india']
+
+###############
+
+['fmg shipping and forwarding ltd. 190020 st.petersburg bumazhnaya str.,18 : +7 ( 812 ) 448-82-83 ( ext.235 ) : +7 ( 812 ) 448-04-98']
+
+###############
+
+['compania de elaborados de cafe elcafe c.a . lomas de prosperina , pasaje32 mz 18-i guayaquil-ecuador ruc # 1390059694001 ph : 593-4-2246058-2270620 : 593-4-2245715']
+
+###############
+
+['pantos logistics japan inc.16f akasaka twin tower the east,17-22 , akasaka 2-chome , minato-ku , tokyo , japan . 107-0052']
+
+###############
+
+['zhejiang zec trade & industry co. , . 208 chaowang road , hangzhou ,']
+
+###############
+
+['kuehne & nagel chongqing branchroom 1501 metropolitan tower , no.68zourong road yuzhong district , chongqing 400010 as agent of blue anchor line kn ref.4355-0254-109 .']
+
+###############
+
+['foshan skyplanet import & export co. , no.1 fen jiang xi road , foshan city guangdong , zip code 52800 : 757-83368145 : 757-83365094']
+
+###############
+
+['shaoxing bolan import and export co. , no.9 tanggong road , paojiangindustrial district , shaoxing , zhejiang ,']
+
+###############
+
+['era solar co. , no.888 huangjiaoroad huangyan tai zhou zhejiang tel:0086-576-84166969 fax:0086-576-84166172']
+
+###############
+
+["ooo `` geocon '' , 198035 , , st.petersburg , ul.gapsalskaya,5 , lit.a , phone ( 812 ) 3357065"]
+
+###############
+
+['schenker qingdao branch51 taiping road29/f trade mansion266001 qingdao']
+
+###############
+
+['m & v international manufacturing ltd. no.754 ( bis ) chak angre kraumphnom penh , cambodia']
+
+###############
+
+['atc cargo s.a. u. hutnicza 3 81-212gdynia : +48 58 699 99 34 : +48 58 699 99 50 eori : pl617025443500000']
+
+###############
+
+['damco logistics korea limitedmcchana tour bldg 1 gongpyung-dongjongro-gu 7/fl 110-160seoul korea , south']
+
+###############
+
+['allcom 9 , mariacka street , 81-383 , gdynia , : +48 ( 58 ) 6607810 : +48 ( 58 ) 6607808']
+
+###############
+
+['ultralogistik transport operationscenter , kolodziejska 2 katowice 40-386 pl +48 32 3576814 attn : pawelkruszewski .']
+
+###############
+
+['wonderful hi-tech co. , ltd. 72 wu kong 6th road , wu ku industrial district , taipei hsien , taiwan r.o.c .']
+
+###############
+
+["llc `` lenta '' savushkina street 112 st.petersburg 197374 russian federation"]
+
+###############
+
+['rohlig suus logistics sa ul.a.struga 42 szczecin 70-784 telephone : ( 91 ) 881-9919 telefax : ( 91 ) 464-4754']
+
+###############
+
+['forward llc 196084 , , st-petersburg , moskovskiy pr . 91a : +7-812-4954114 e-mail : import @ frwd.bizfws4230']
+
+###############
+
+['weiss-rohlig co. , ltd. ningbobranch rm 8608 , howard johnson office bldg no.230 liuting str . 315010 ningbo china-']
+
+###############
+
+['interstate tire & rubber company po.box 830,2600 av , delft , the netherlands europe tel/fax.+31 ( 15 ) 2578310/2855475']
+
+###############
+
+['pol s & a ltdvdr167 daewoo complex building , sejong-naesoo-dong , jongro-gu 110-121seoul korea , south']
+
+###############
+
+["ooo `` kontex '' 199004. , saintpetersburg , 4 - liniya vasilevskogoostrova , d 17. . 8 812 323- 95-95"]
+
+###############
+
+['hercules logistics co. , ltd.o/b woojin global logistics co. , . o/byin tong ( dong guan city ) glass co. , . xie xi village north , shatian town,523982 dongguan']
+
+###############
+
+['shengzhou tree electrical appliances co. , . no.2 industry zone , sanjie , shengzhou , zhejiang , chin a']
+
+###############
+
